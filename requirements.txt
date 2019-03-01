@@ -1,0 +1,4 @@
+bottle
+git+https://github.com/kazehara/RestaurantSearcherNLP.git
+numpy
+psycopg2
